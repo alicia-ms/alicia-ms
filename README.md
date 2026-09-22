@@ -44,6 +44,14 @@ Este GitHub es mi espacio para compartir proyectos, seguir aprendiendo y mostrar
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ### Big Data & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -55,14 +63,6 @@ Este GitHub es mi espacio para compartir proyectos, seguir aprendiendo y mostrar
 - Data Analysis
 - Data Monitoring
 - Dashboards & Reporting
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Postman](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
