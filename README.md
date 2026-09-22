@@ -7,7 +7,7 @@
 
 Soy Alicia Martinez, desarrolladora Full Stack Junior con experiencia profesional de 1 año y 3 meses en el desarrollo de software.
 
-He estudiado DAM (Desarrollo de Aplicaciones Multiplataforma) y actualmente estoy cursando una especialización en Inteligencia Artificial y Big Data.
+He estudiado DAM (Desarrollo de Aplicaciones Multiplataforma en inglés) y actualmente estoy cursando una especialización en Inteligencia Artificial y Big Data.
 
 Me apasiona la programación y la posibilidad de crear soluciones informáticas, especialmente en el área de **Backend y Bases de Datos**.
 
