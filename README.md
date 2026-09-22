@@ -113,15 +113,13 @@ En este espacio iré compartiendo proyectos personales y académicos relacionado
 
 ## 📫 Contacto
 
-💼 **LinkedIn:** [Mi perfil de LinkedIn](TU_ENLACE_LINKEDIN)
-
-🐙 **GitHub:** [Mis proyectos](https://github.com/TU_USUARIO)
+💼 **LinkedIn:** [Mi perfil de LinkedIn](www.linkedin.com/in/alicia-martinez-salado)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicia-ms&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)...
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicia-ms&layout=compact&theme=radical)...
 -->
