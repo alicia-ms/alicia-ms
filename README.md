@@ -20,67 +20,52 @@ Soy una persona extrovertida, versátil y creativa. Aprendo rápido, no me da mi
 Este GitHub es mi espacio para compartir proyectos, seguir aprendiendo y mostrar mi evolución como desarrolladora.
 
 ---
+## 🛠️ Technologies & Tools
 
-## 🛠️ Tecnologías y herramientas
+### Languages
 
-### Lenguajes de programación
-- Java
-- Python
-- C#
-- PHP
-- JavaScript
-- R
-- SQL
-- PL/SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Desarrollo web
-- HTML
-- CSS
-- Spring Boot
-- Flask
-- Hibernate
-- XML, XSD y XSLT
+### Frameworks & Backend
 
-### Bases de datos
-- MySQL
-- PostgreSQL
-- MongoDB
-- Microsoft Access
-- PgAdmin
-- PgModeler
-- BaseX
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-### Inteligencia Artificial, Big Data y análisis de datos
-- Procesos ETL
-- Ecosistema Hadoop
-- Análisis de datos
-- Integridad y monitorización del dato
-- Adquisición e integración de datos
-- Power BI
-- Dashboards
-- Visualización de resultados y reportes
+### Databases
 
-### Herramientas y entornos
-- Docker y Docker Compose
-- Podman
-- Ubuntu Server
-- VMware
-- VirtualBox
-- Git
-- Trello
-- TortoiseSVN
-- Odoo
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### IDEs y desarrollo
-- Eclipse
-- NetBeans
-- PyCharm
-- Android Studio
-- Unity
-- Visual Studio Code
-- RStudio
+### Big Data & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+- ETL Processes
+- Data Integration
+- Data Analysis
+- Data Monitoring
+- Dashboards & Reporting
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
+
 
 ## 🚀 Proyectos
 
