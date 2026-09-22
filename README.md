@@ -61,12 +61,12 @@ Este GitHub es mi espacio para compartir proyectos, seguir aprendiendo y mostrar
 - Visualización de resultados y reportes
 
 ### Herramientas y entornos
-- Git
 - Docker y Docker Compose
 - Podman
 - Ubuntu Server
 - VMware
 - VirtualBox
+- Git
 - Trello
 - TortoiseSVN
 - Odoo
@@ -84,15 +84,10 @@ Este GitHub es mi espacio para compartir proyectos, seguir aprendiendo y mostrar
 
 ## 🚀 Proyectos
 
-Durante mi formación y experiencia profesional he trabajado en el desarrollo de aplicaciones web y APIs REST.
-
-En este espacio iré compartiendo proyectos personales y académicos relacionados con el desarrollo backend, las bases de datos, el análisis de datos y la Inteligencia Artificial.
+En este espacio iré compartiendo proyectos personales y académicos relacionados con el análisis de datos y la Inteligencia Artificial.
 
 ### 💡 Proyectos que me gustaría desarrollar
 
-- 🏢 Sistema de gestión de un negocio
-- 💰 Gestor de gastos personales
-- 🔌 API REST con base de datos
 - 📊 Análisis de datos con Python
 - 🤖 Proyecto de Machine Learning
 - 🔄 Pipeline de datos (ETL)
@@ -107,19 +102,10 @@ En este espacio iré compartiendo proyectos personales y académicos relacionado
 - Big Data
 - Machine Learning
 - Análisis de datos con Python
-- Desarrollo Backend
 
 ---
 
 ## 📫 Contacto
 
 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/alicia-martinez-salado/)
-
----
-
-## 📊 GitHub Stats
-
-![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicia-ms&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicia-ms&layout=compact&theme=radical)
 -->
