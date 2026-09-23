@@ -93,4 +93,3 @@ En este espacio iré compartiendo proyectos personales y académicos relacionado
 ## 📫 Contacto
 
 💼 **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/alicia-martinez-salado/)
--->
