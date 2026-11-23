@@ -87,6 +87,7 @@ En este espacio iré compartiendo proyectos personales y académicos relacionado
 - Big Data
 - Machine Learning
 - Análisis de datos con Python
+- Power BI
 
 ---
 
